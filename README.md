@@ -7,6 +7,7 @@
 **🎯 [Utiliser la Boussole de Valeurs](https://ouaisfieu.github.io/boussole/)**
 
 + Retrouvez la boussole sur [Obsidian](https://publish.obsidian.md/ouaisfieu/%E2%96%B6+NOS+KITS+%E2%97%80/%E2%98%AF+VALEURS/%F0%9F%9F%A2+Valeurs)
++ MOT de PASSE : batman1234
 
 ## 📖 À propos
 
