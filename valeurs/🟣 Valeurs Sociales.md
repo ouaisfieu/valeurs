@@ -1,0 +1,30 @@
+---
+cssclasses: []
+---
+### Valeurs Sociales 
+
+- [[Amitié]]
+- [[Compassion]]
+- [[Communauté]]
+- [[Coopération]]
+- [[Fiabilité]]
+- [[Loyauté]]
+- [[Amusement]]
+- [[Humour]]
+- [[Individualisme]]
+- [[Sens de la famille]]
+- [[Diversité]]
+- [[Développement personnel]]
+- [[Expression artistique]]
+- [[Beauté]]
+- [[Idéalisme]]
+- [[Patriotisme]]
+- [[Tolérance]]
+- [[Transparence]]
+- [[Collaboration]]
+- [[Inclusion]]
+- [[Solidarité]]
+- [[Partage]]
+- [[Service]]
+- [[Soin]]
+
